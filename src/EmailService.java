@@ -1,0 +1,3 @@
+@Bean
+public class EmailService {
+}
